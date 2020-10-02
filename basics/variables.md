@@ -34,7 +34,7 @@ _**NOTE** : However, it is not good practice. To avoid mistakes, try to avoid ov
 ```
 >>> this_is_a_normal_name = 7
 
->>> 123abc = 7
+>>> 123abc = 7 #Variable name should not be start with Number
 SyntaxError: invalid syntax
 
 >>> spaces are not allowed
